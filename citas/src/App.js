@@ -51,7 +51,7 @@ function App() {
 
   return (
     <Fragment>
-      <h1>Patient Administration</h1>
+      <h1>Patient manager</h1>
 
       <div className="container">
         <div className="row">
